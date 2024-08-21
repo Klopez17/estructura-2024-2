@@ -1,1 +1,5 @@
-# estructura-2024-2
+# Estructura-2024-2
+
+## Primera clase
+
+Este es el primer acercamiento a Git
